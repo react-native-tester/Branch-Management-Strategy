@@ -7,7 +7,7 @@ const fetch = (v) => {
         }
     }
     return {
-        v: v + 10,
-        t: C * (v + 10)
+        v: v, // BF2: BUG2 fix - 非零分支不应加偏移量
+        t: C * v
     }
 }
