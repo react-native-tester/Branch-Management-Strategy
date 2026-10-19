@@ -1,0 +1,37 @@
+package.json
+  s_1c4c12040a111a::t_0aec48dc59c96d 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "3d61558b73ae5cdea346f3d2141ebf646dfbb83d",
+  "prompts": {},
+  "humans": {
+    "h_86a8201d3ab515": {
+      "author": "huang_jy <huangjianyi5@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_1c4c12040a111a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ebc2b93d4ffeuid8yXXTmcCIbC",
+        "model": "glm-5.3"
+      },
+      "human_author": "huang_jy <huangjianyi5@huawei.com>",
+      "total_additions": 2,
+      "total_deletions": 2,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_0aec48dc59c96d": "glm-5.3",
+        "t_b07249adf2c218": "glm-5.3"
+      },
+      "model_totals": {
+        "glm-5.3": {
+          "additions": 2,
+          "deletions": 2
+        }
+      }
+    }
+  }
+}
