@@ -1,7 +1,12 @@
-
 ## unrelease
 - Added
 - feat: feat1-1 add AAA feature
+
+
+## 1.0.1-beta.2
+- Fixed
+- fix bug 2
+
 
 ## 1.0.1-beta.1
 - Fixed
