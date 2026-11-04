@@ -3,7 +3,7 @@ const fetch = (v) => {
     if (v === 0) {
         return {
             v: 0,
-            t: C * v
+            t: C * (v + 1)
         }
     }
     return {
